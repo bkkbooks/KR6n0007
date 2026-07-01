@@ -1,0 +1,1492 @@
+canonical_identifier: bkk:krp/KR6n0007/T/v1
+canonical_location: https://kanripo.org/bkk/KR6n0007/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 瑜伽論記
+  identifiers:
+    krp: KR6n0007
+    cbeta: T42n1828
+    cbeta_old_id: T42n1828
+    authorityid: CA0003827
+    json_key: T1828
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T42/T42n1828.xml
+    old_id: T42n1828
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0007_000-T.yaml, hash: 'sha256:28e410441ddd66f6aa838bf8d8f61be468e3e6d6db912bb2eb2995d1bf3e959b'}
+  - {seq: 2, filename: KR6n0007_002-T.yaml, hash: 'sha256:a3cedfd885d61c1c1f2dac573a3cc783093b784eafbce4585ffb304f3afb0ce7'}
+  - {seq: 3, filename: KR6n0007_003-T.yaml, hash: 'sha256:0f84e3c25a5ce0c8e8358ec746e9e3e89e3a498475d7ba91cc1010a0a0b6ace8'}
+  - {seq: 4, filename: KR6n0007_004-T.yaml, hash: 'sha256:3a8a18f193be03f3a71b2cdc9383842af5e029e480ec122b9d10ff0d4226f0de'}
+  - {seq: 5, filename: KR6n0007_005-T.yaml, hash: 'sha256:d06fc0b0e2bb5cb0749e4a60af273de7ecbb4d7626cce95f6b69f49e9418f099'}
+  - {seq: 6, filename: KR6n0007_006-T.yaml, hash: 'sha256:e9a3f8b5fdd7a34653b3e58b51d56ca8c9d812b079f3842dbc254d293ea49709'}
+  - {seq: 7, filename: KR6n0007_007-T.yaml, hash: 'sha256:1b83c3f196b6450e17c1705a4f591df581c5fd98afaf633a43930b4db2089de6'}
+  - {seq: 8, filename: KR6n0007_008-T.yaml, hash: 'sha256:25ac0f76c5fd771aab5c26382cb5a3b43b2b37a84b87b3c2cede015dfcbb64a2'}
+  - {seq: 9, filename: KR6n0007_009-T.yaml, hash: 'sha256:c73aac39f0304eb86baa94599b1c172045b38a537a3db07b302a31074f13dd75'}
+  - {seq: 10, filename: KR6n0007_010-T.yaml, hash: 'sha256:b1c765fe82c396901f08dda9d48c0bdeb2f954881cf3362ede15ac4478b3ef9b'}
+  - {seq: 11, filename: KR6n0007_011-T.yaml, hash: 'sha256:25a4251b79729a6f56295522236e9fb60b42ae7ec6149f58ef98245d201e78a4'}
+  - {seq: 12, filename: KR6n0007_012-T.yaml, hash: 'sha256:128c372fabc219055d3088664ab1430f88c7198574dbdff96083d14f307d3868'}
+  - {seq: 13, filename: KR6n0007_013-T.yaml, hash: 'sha256:61b24df447c6b1e9e82acf9ab338cd1b74c46667a24a4ce461e6a134150b338e'}
+  - {seq: 14, filename: KR6n0007_014-T.yaml, hash: 'sha256:3dd00091b97a14935322ef76f7849c33d11347bd87ffd3bad8ba11b1ec878796'}
+  - {seq: 15, filename: KR6n0007_015-T.yaml, hash: 'sha256:401c96fdfc5edbacbe80cffc825ffeb79e37ad4655a93ea4d6bc9ac0e7b7b267'}
+  - {seq: 16, filename: KR6n0007_016-T.yaml, hash: 'sha256:e3d65899c9a169730eabf3d627b164a6cc7457511767025e9819155b9324bac0'}
+  - {seq: 17, filename: KR6n0007_017-T.yaml, hash: 'sha256:0b5c2e15d32ae370b005675d32fdba0f73d7bdcb404e248bf822a04016138367'}
+  - {seq: 18, filename: KR6n0007_018-T.yaml, hash: 'sha256:00b8893d616bddee04b5f9075bc9744d5a5a40c53aee55366701189d7b1dac17'}
+  - {seq: 19, filename: KR6n0007_019-T.yaml, hash: 'sha256:1783937c48a45009d1c0f669011d2c6ed83442c91a75f82db0a5794a2c0ec3ad'}
+  - {seq: 20, filename: KR6n0007_020-T.yaml, hash: 'sha256:0a33335d154792f519cdb5aea1d37b16bca8d5f5649fdc7fa2a3c9e1164aab07'}
+  - {seq: 21, filename: KR6n0007_021-T.yaml, hash: 'sha256:0b89bab76ed05fa44ca98ae288734d6338629d54f504b4924685e58c19a2a7bf'}
+  - {seq: 22, filename: KR6n0007_022-T.yaml, hash: 'sha256:1ec5eaf4d049c4b86285fd2552064136ef4085114e0e5a3726994d37304500bf'}
+  - {seq: 23, filename: KR6n0007_023-T.yaml, hash: 'sha256:6d7ba211b1f0dac88cb8e02d0335bc0c5a64a4327934720c290b7b478a5e79e7'}
+  - {seq: 24, filename: KR6n0007_024-T.yaml, hash: 'sha256:2ede38d2dc3cd75e1813a56465b3dfc62625e28055fcc35701f514445cff614c'}
+  - {seq: 25, filename: KR6n0007_025-T.yaml, hash: 'sha256:66a9479c055815edcc5198ab85e968dfd5d528b456700987f0bf60643e4829de'}
+  - {seq: 26, filename: KR6n0007_026-T.yaml, hash: 'sha256:a0ad67875d00b0fa1d889829dff2039fabc9eabc0003f5d5b4e5711b9af6bfeb'}
+  - {seq: 27, filename: KR6n0007_027-T.yaml, hash: 'sha256:790db8afa1d0d3620f7d7b51761c439ba383a57cff2c11d1035f676718d1f12d'}
+  - {seq: 28, filename: KR6n0007_028-T.yaml, hash: 'sha256:de7a4c3a5ce16c4bc6ad28be580188fd75dc408cd99e8b211b1ea6da6135cee9'}
+  - {seq: 29, filename: KR6n0007_029-T.yaml, hash: 'sha256:8dd27176726422e75424c442574468982d2cffd051af25643dd1f72ffdc55c80'}
+  - {seq: 30, filename: KR6n0007_030-T.yaml, hash: 'sha256:6d26ee83838bd6531b0df8ce1338cbf25960f1bd132fcd35ace0098f3f7bdea5'}
+  - {seq: 31, filename: KR6n0007_031-T.yaml, hash: 'sha256:39cd6d4b87d42cd0c0ede75d4cf1f9d9cdad844d468b1754fc46aa74153bdc10'}
+  - {seq: 32, filename: KR6n0007_032-T.yaml, hash: 'sha256:fa4970584173a6217885fe7096b6981892325618a7d0f243483b64498e864dff'}
+  - {seq: 33, filename: KR6n0007_033-T.yaml, hash: 'sha256:95a0dbcd0e6653fe5ca5b20d3e1ad71c0d3283f0e1d2491615099e0e2e1c3d33'}
+  - {seq: 34, filename: KR6n0007_034-T.yaml, hash: 'sha256:f851d80fe738f5e618d91f5a639a31bce14052b87064183e5fd0064726ceb5cc'}
+  - {seq: 35, filename: KR6n0007_035-T.yaml, hash: 'sha256:06ca3ba2a1763062fa449c19569c42f1b1da6f28d863e1ea5bd1a9ddb3266e3e'}
+  - {seq: 36, filename: KR6n0007_036-T.yaml, hash: 'sha256:be88ad0fbda83d3dbdb93218207c44583ae6fcdbbf7a138b08866f7c95896f66'}
+  - {seq: 37, filename: KR6n0007_037-T.yaml, hash: 'sha256:6167b0d26547a624ff06f4a1cf3725b05dc58149591a71652a706f2d5bf0a8f6'}
+  - {seq: 38, filename: KR6n0007_038-T.yaml, hash: 'sha256:1c3766a15751749b96b04a571b88d0d2b012b3fb1ca50ff800d7669bc55878a2'}
+  - {seq: 39, filename: KR6n0007_039-T.yaml, hash: 'sha256:bf6bf179cb4c6559e3b3c25542217538576f7e9cc39446b26150db3fb2ca7a1b'}
+  - {seq: 40, filename: KR6n0007_040-T.yaml, hash: 'sha256:f175cc7aa2dad34573f85143e2a0c1cdc2cfec44f4ff419a78f74eb8db2490c0'}
+  - {seq: 41, filename: KR6n0007_041-T.yaml, hash: 'sha256:8a03c08805dc86ae96a3254db2e71832a2207bfcbdca2fd075e5a2df70359e4f'}
+  - {seq: 42, filename: KR6n0007_042-T.yaml, hash: 'sha256:ea3eda28b392fb88e4945ecb905857d327deb9b404ace035c6d6caa2d2a66238'}
+  - {seq: 43, filename: KR6n0007_043-T.yaml, hash: 'sha256:a0ca69d9f62ac1056b76bbde11111ed23a61f1866343fb6cc743909c632f2946'}
+  - {seq: 44, filename: KR6n0007_044-T.yaml, hash: 'sha256:39b4108004f2422ea1dd5efa784bfafe602b85c010073810646e51fa992db789'}
+  - {seq: 45, filename: KR6n0007_045-T.yaml, hash: 'sha256:c684b691e6943eb5e6f9b205bf4abb0fd861cb29b9a21f5cd6b9029adda646bb'}
+  - {seq: 46, filename: KR6n0007_046-T.yaml, hash: 'sha256:891a919e80fe81f6a3d1f891e5d38ee0bb8946c69a5fb282bddf87dddb66560f'}
+  - {seq: 47, filename: KR6n0007_047-T.yaml, hash: 'sha256:b3a89e76ba6cde2fcfbdac110af0637555cac6f09ce52da787177cc3dbcf922f'}
+  - {seq: 48, filename: KR6n0007_048-T.yaml, hash: 'sha256:e89fff331258758a71c46f20ef3aeafc0e8a137339c15e83e311336309936763'}
+  - {seq: 49, filename: KR6n0007_049-T.yaml, hash: 'sha256:938750f480252cb3b8ac4faa830e03ced329999e0788fc75f0e99a43c937dfde'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0007_000-T.markers.yaml, hash: 'sha256:e1bdf612b91806ee272f752a72d297a0450aac22b7a36093aa88d0cee4fcfac2'}
+  - {seq: 2, role: markers, filename: assets/KR6n0007_002-T.markers.yaml, hash: 'sha256:6794598fee523f40f28592b9ea6f876d8bf63b38cefe5c72ab1df8763f9da1ce'}
+  - {seq: 3, role: markers, filename: assets/KR6n0007_003-T.markers.yaml, hash: 'sha256:49ab9b8cbb38045dc000bcdc24ac15c56375a26deb685a2a165572c244533263'}
+  - {seq: 4, role: markers, filename: assets/KR6n0007_004-T.markers.yaml, hash: 'sha256:6aefb22530aa419a7222164139deee7d764c0705e81f3b1212a776d79cc83b23'}
+  - {seq: 5, role: markers, filename: assets/KR6n0007_005-T.markers.yaml, hash: 'sha256:4c3e0b982e4b3a4b48a0aa082ab81f6bf60615f7abd520875f56a4589aa5a648'}
+  - {seq: 6, role: markers, filename: assets/KR6n0007_006-T.markers.yaml, hash: 'sha256:c26514bb83669cc2c38153244900ded158837954c57c5df4193848ad5b9806c9'}
+  - {seq: 7, role: markers, filename: assets/KR6n0007_007-T.markers.yaml, hash: 'sha256:aad9dad0972650fb4b2f76bb1428163e6bfe1240ef115028a0fe71a6c462dc72'}
+  - {seq: 8, role: markers, filename: assets/KR6n0007_008-T.markers.yaml, hash: 'sha256:7aef2a8ecd771acb81afe28b58beee750047bd9dec3d202da96839af15bb8834'}
+  - {seq: 9, role: markers, filename: assets/KR6n0007_009-T.markers.yaml, hash: 'sha256:df16e46246670c66f485a25d3d3fb19e2df31fa8b9065ccdc525d47a38421fda'}
+  - {seq: 10, role: markers, filename: assets/KR6n0007_010-T.markers.yaml, hash: 'sha256:3fdb0b2c58829faa17cb35e1ca416110599cc82817f71a966b5c1dcadae9f452'}
+  - {seq: 11, role: markers, filename: assets/KR6n0007_011-T.markers.yaml, hash: 'sha256:011d931844ad16e87b929b6fa3537f354174dc4346f13f8dcb2039df07bd9820'}
+  - {seq: 12, role: markers, filename: assets/KR6n0007_012-T.markers.yaml, hash: 'sha256:bfc987b0faf8de13c0c2c8d4bf9e51c7648f801a432e10e728ff66da3da4188c'}
+  - {seq: 13, role: markers, filename: assets/KR6n0007_013-T.markers.yaml, hash: 'sha256:2fedd16795bd5cc60eb44cd874e922c6d3c138d9471f148e930ea0d2f3730763'}
+  - {seq: 14, role: markers, filename: assets/KR6n0007_014-T.markers.yaml, hash: 'sha256:ff52a1d0f2b139f5b52a90d43e5d9401c2c6a569ada4edaa28dbfe1cf26402a0'}
+  - {seq: 15, role: markers, filename: assets/KR6n0007_015-T.markers.yaml, hash: 'sha256:d16d5e621f971503315979e468dc20f89ccbbebcb21162bed852485192b95b75'}
+  - {seq: 16, role: markers, filename: assets/KR6n0007_016-T.markers.yaml, hash: 'sha256:7c58d15d841907e873c5bc1b0b453d0339699908cc267f6e2e978dc9658b95b7'}
+  - {seq: 17, role: markers, filename: assets/KR6n0007_017-T.markers.yaml, hash: 'sha256:a667a69073c97feddc3d53a0d6fc35f412248209026c0f3f83bdf8147aa11552'}
+  - {seq: 18, role: markers, filename: assets/KR6n0007_018-T.markers.yaml, hash: 'sha256:10fffdf18d6cb8343b32aa592cabb70542397a0e56df9f6a2edbd8039957a3a3'}
+  - {seq: 19, role: markers, filename: assets/KR6n0007_019-T.markers.yaml, hash: 'sha256:3143441c1b25feb811d38aa4a2d35d19a8ef22c4d822c6e7872848608c92d32b'}
+  - {seq: 20, role: markers, filename: assets/KR6n0007_020-T.markers.yaml, hash: 'sha256:37963803419c53f2c256188f14b913de83d4540944a1bc5152b9b689963e2e21'}
+  - {seq: 21, role: markers, filename: assets/KR6n0007_021-T.markers.yaml, hash: 'sha256:e0911704b4cdee1829a393d53555ce36785c8f5ac75f6d935385f78d9a713569'}
+  - {seq: 22, role: markers, filename: assets/KR6n0007_022-T.markers.yaml, hash: 'sha256:adcb6198a57765bb362c6f70ef4a50697d76f130b527a3dfc2bfe9c40953d132'}
+  - {seq: 23, role: markers, filename: assets/KR6n0007_023-T.markers.yaml, hash: 'sha256:b328ca62f98bb01cbcfe80667183733989ee72a3f6d32d2f9f77af16d2d8fc64'}
+  - {seq: 24, role: markers, filename: assets/KR6n0007_024-T.markers.yaml, hash: 'sha256:abef624355c2d52f18831b49cc332d53e18094803a273a71e26c1e949c3bb57f'}
+  - {seq: 25, role: markers, filename: assets/KR6n0007_025-T.markers.yaml, hash: 'sha256:f50914da0493dc551f357bc70738c59b4950b9bd38d4ca987bc4eb468512e9e8'}
+  - {seq: 26, role: markers, filename: assets/KR6n0007_026-T.markers.yaml, hash: 'sha256:9141f76d436a5f6343883d3a7cbb69306249834ed6a20ffe3f624064b7755554'}
+  - {seq: 27, role: markers, filename: assets/KR6n0007_027-T.markers.yaml, hash: 'sha256:3daff947777bb9c247840df8fea450cdb3f670597910fc87f99f948ab5494e97'}
+  - {seq: 28, role: markers, filename: assets/KR6n0007_028-T.markers.yaml, hash: 'sha256:36f0d1f0ca3c207621f30346eede8dc1bcefa920a29e52db6b6d9baa4ace61ac'}
+  - {seq: 29, role: markers, filename: assets/KR6n0007_029-T.markers.yaml, hash: 'sha256:fffbcd413e1719417642c6a66e15eb4f4cc0fc40b5d6fbd5558585782d336c87'}
+  - {seq: 30, role: markers, filename: assets/KR6n0007_030-T.markers.yaml, hash: 'sha256:d2441279964600e02b71d6acafc657695909f92c7b78d392a6104e5b56d42f6f'}
+  - {seq: 31, role: markers, filename: assets/KR6n0007_031-T.markers.yaml, hash: 'sha256:6d5dfaf5ce376ba14d62f7b09a5d9b3ccd6972c5ed16f20ef251f89cc6b4f90e'}
+  - {seq: 32, role: markers, filename: assets/KR6n0007_032-T.markers.yaml, hash: 'sha256:baac91831138dfcd4b4be5e08abb00f982929026bb4036de244bf1186e0b98da'}
+  - {seq: 33, role: markers, filename: assets/KR6n0007_033-T.markers.yaml, hash: 'sha256:8078863adc50a7124ef01cf57560aa720e822566572ecb91e42d1a4146f1d3f0'}
+  - {seq: 34, role: markers, filename: assets/KR6n0007_034-T.markers.yaml, hash: 'sha256:deee05331ee0aeb53263685f2a885ccfd76decf355de04dbcb980171864520df'}
+  - {seq: 35, role: markers, filename: assets/KR6n0007_035-T.markers.yaml, hash: 'sha256:b766a9f8aa77cfeb336f5c3c652d25ac74b13d6864246554408983f7d7ef8f13'}
+  - {seq: 36, role: markers, filename: assets/KR6n0007_036-T.markers.yaml, hash: 'sha256:d9470b51df9802bfe84a26daf89d2ee424ecaf65716e3be0af964f883fbb5973'}
+  - {seq: 37, role: markers, filename: assets/KR6n0007_037-T.markers.yaml, hash: 'sha256:12d0c1c837c78a7a35f0cc049f7e3edb4c88bef62bfcbdbfd1c45844e9615cd0'}
+  - {seq: 38, role: markers, filename: assets/KR6n0007_038-T.markers.yaml, hash: 'sha256:f7f08d3ac59bbab04c37be274100f56d473841e8c906f2de5070d9807d19d541'}
+  - {seq: 39, role: markers, filename: assets/KR6n0007_039-T.markers.yaml, hash: 'sha256:9c0542719032ceb4c5176918b484c123a5aa7c4f71553b5837713b650bbe5975'}
+  - {seq: 40, role: markers, filename: assets/KR6n0007_040-T.markers.yaml, hash: 'sha256:84fde4256217bffd00883d0eec062b0b97f9af1f843e3c70388b345658e9b0b8'}
+  - {seq: 41, role: markers, filename: assets/KR6n0007_041-T.markers.yaml, hash: 'sha256:fde16908cb3337a70830c78f78f336f0ce48b42d4976a9736611e01776096a08'}
+  - {seq: 42, role: markers, filename: assets/KR6n0007_042-T.markers.yaml, hash: 'sha256:4d836addd18ff0f9e48bc84c379fa3ae9e30c34552d2bb7d1053169acc5b63f0'}
+  - {seq: 43, role: markers, filename: assets/KR6n0007_043-T.markers.yaml, hash: 'sha256:78af11635eaa38210c326ebffd20b8b651c291e447c677435d853709a3c12e08'}
+  - {seq: 44, role: markers, filename: assets/KR6n0007_044-T.markers.yaml, hash: 'sha256:57fd876d28c2935c2c1d617a15732c419bbda6365621715e7edd44312c7b68bc'}
+  - {seq: 45, role: markers, filename: assets/KR6n0007_045-T.markers.yaml, hash: 'sha256:db1731b1639748b35c5a718fcb9935f310340ec18817ce650ebdc426d5a84b85'}
+  - {seq: 46, role: markers, filename: assets/KR6n0007_046-T.markers.yaml, hash: 'sha256:5dc01e68e8ab71e2a35fa6dce10f6d29d31928da0a8d86fe37bbe95c77d7249d'}
+  - {seq: 47, role: markers, filename: assets/KR6n0007_047-T.markers.yaml, hash: 'sha256:59c5dbd66ff57bcbf53e9afb04e0736a331035da9fc90bc08f3147299f4b3d7a'}
+  - {seq: 48, role: markers, filename: assets/KR6n0007_048-T.markers.yaml, hash: 'sha256:69c3fb9762c378463b8fd3c7303c1236851d92c359caf4d53a98841efe97dfa2'}
+  - {seq: 49, role: markers, filename: assets/KR6n0007_049-T.markers.yaml, hash: 'sha256:653f3e9a736218858774780bea2b7a0a1be66426eefe6ae299c2c345bdcf18ff'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR6n0007_T_001a-juan-start
+    span:
+    - body
+    - 0
+    - 18920
+  label: 瑜伽論記卷第一之上論本第一卷
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0007_T_001a-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 1 本地分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0007_T_001a-mulu-2
+    span:
+    - body
+    - 4001
+    - 4001
+  label: 1 五識身相應地(一上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0007_T_001a-mulu-3
+    span:
+    - body
+    - 10154
+    - 10154
+  label: 2 意地(一上-一下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0007_T_001b-juan-start
+    span:
+    - body
+    - 0
+    - 17756
+  label: 瑜伽論記卷第一之下論本第二至第三卷
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0007_T_002a-juan-start
+    span:
+    - body
+    - 0
+    - 20449
+  label: 瑜伽論記卷第二之上論本第四至第六卷
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0007_T_002a-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 3-5 有尋有伺等三地(二上-三下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0007_T_002a-mulu-2
+    span:
+    - body
+    - 5
+    - 5
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0007_T_002b-juan-start
+    span:
+    - body
+    - 0
+    - 13781
+  label: 瑜伽論記卷第二之下至第八卷論本第七
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6n0007_T_003a-juan-start
+    span:
+    - body
+    - 0
+    - 12963
+  label: 瑜伽論記卷第三之上論本第九至第十
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0007_T_003b-juan-start
+    span:
+    - body
+    - 0
+    - 14193
+  label: 瑜伽論記卷第三之下
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6n0007_T_004a-juan-start
+    span:
+    - body
+    - 0
+    - 13931
+  label: 瑜伽論記卷第四之上論本第十一至第十二卷
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6n0007_T_004a-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 6 三摩呬多地(四上-五上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6n0007_T_004a-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0007_T_004b-juan-start
+    span:
+    - body
+    - 0
+    - 18430
+  label: 瑜伽論記卷第四之下論本第十二卷
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0007_T_005a-juan-start
+    span:
+    - body
+    - 0
+    - 21498
+  label: 瑜伽論記卷第五之上論本第十三至第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0007_T_005a-mulu-1
+    span:
+    - body
+    - 2928
+    - 2928
+  label: 7 非三摩呬多地(五上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0007_T_005a-mulu-2
+    span:
+    - body
+    - 3433
+    - 3433
+  label: 8-9 有心無心二地(五上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0007_T_005a-mulu-3
+    span:
+    - body
+    - 4546
+    - 4546
+  label: 10 聞所成地(五上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6n0007_T_005b-juan-start
+    span:
+    - body
+    - 0
+    - 16474
+  label: 瑜伽論記卷第五之下論本第十六至第十九
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6n0007_T_005b-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 11 思所成地(五下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6n0007_T_006a-juan-start
+    span:
+    - body
+    - 0
+    - 17309
+  label: 瑜伽論記卷第六之上論本第二十至二十四
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6n0007_T_006a-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 12 修所成地(六上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6n0007_T_006a-mulu-2
+    span:
+    - body
+    - 6305
+    - 6305
+  label: 13 聲聞地
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6n0007_T_006a-mulu-3
+    span:
+    - body
+    - 6403
+    - 6403
+  label: 1 瑜伽處
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6n0007_T_006a-mulu-4
+    span:
+    - body
+    - 6483
+    - 6483
+  label: 種姓地(六上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6n0007_T_006a-mulu-5
+    span:
+    - body
+    - 9636
+    - 9636
+  label: 趣入地(六上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6n0007_T_006a-mulu-6
+    span:
+    - body
+    - 10610
+    - 10610
+  label: 出離地(六上-六下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6n0007_T_006b-juan-start
+    span:
+    - body
+    - 0
+    - 13309
+  label: 瑜伽論記卷第六之下論本第二十五至二十六
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6n0007_T_006b-mulu-1
+    span:
+    - body
+    - 6458
+    - 6458
+  label: 2 瑜伽處(六下-七下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6n0007_T_006b-mulu-2
+    span:
+    - body
+    - 6463
+    - 6463
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6n0007_T_007a-juan-start
+    span:
+    - body
+    - 0
+    - 14784
+  label: 瑜伽論記卷第七之上論本第二十七至第二十八
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6n0007_T_007b-juan-start
+    span:
+    - body
+    - 0
+    - 18846
+  label: 瑜伽論記卷第七之下論本第二十九至三十二
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6n0007_T_007b-mulu-1
+    span:
+    - body
+    - 7742
+    - 7742
+  label: 3 瑜伽處(七下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6n0007_T_008a-juan-start
+    span:
+    - body
+    - 0
+    - 20861
+  label: 瑜伽論記卷第八之上論本第三十三至三十四
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6n0007_T_008a-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 4 瑜伽處(八上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6n0007_T_008a-mulu-2
+    span:
+    - body
+    - 19074
+    - 19074
+  label: 14 獨覺地(八上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6n0007_T_008b-juan-start
+    span:
+    - body
+    - 0
+    - 19484
+  label: 瑜伽論記卷第八之下論本第三十五卷
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6n0007_T_008b-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 15 菩薩地
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6n0007_T_008b-mulu-2
+    span:
+    - body
+    - 171
+    - 171
+  label: 1 持瑜伽處
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6n0007_T_008b-mulu-3
+    span:
+    - body
+    - 279
+    - 279
+  label: 種姓品(八下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6n0007_T_008b-mulu-4
+    span:
+    - body
+    - 11885
+    - 11885
+  label: 發心品(八下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6n0007_T_008b-mulu-5
+    span:
+    - body
+    - 15288
+    - 15288
+  label: 自他利品(八下-九上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6n0007_T_008b-mulu-6
+    span:
+    - body
+    - 15288
+    - 15288
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6n0007_T_009a-juan-start
+    span:
+    - body
+    - 0
+    - 26964
+  label: 瑜伽論記卷第九之上
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6n0007_T_009a-mulu-1
+    span:
+    - body
+    - 3617
+    - 3617
+  label: 真實義品(九上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6n0007_T_009b-juan-start
+    span:
+    - body
+    - 0
+    - 10314
+  label: 瑜伽師地論卷第九之下
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6n0007_T_009b-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 威力品(九下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6n0007_T_009b-mulu-2
+    span:
+    - body
+    - 6905
+    - 6905
+  label: 成熟品(九下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6n0007_T_010a-juan-start
+    span:
+    - body
+    - 0
+    - 22540
+  label: 瑜伽論記卷第十之上論本第三十八至四十
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6n0007_T_010a-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 菩提品(一〇上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6n0007_T_010a-mulu-2
+    span:
+    - body
+    - 4086
+    - 4086
+  label: 力種姓品(一〇上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6n0007_T_010a-mulu-3
+    span:
+    - body
+    - 10833
+    - 10833
+  label: 施品(一〇上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6n0007_T_010a-mulu-4
+    span:
+    - body
+    - 14709
+    - 14709
+  label: 戒品(一〇上-一〇下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6n0007_T_010b-juan-start
+    span:
+    - body
+    - 0
+    - 15337
+  label: 瑜伽論記卷第十之下論本第四十一至四十三
+  type: juan
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6n0007_T_010b-mulu-1
+    span:
+    - body
+    - 4661
+    - 4661
+  label: 忍品(一〇下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6n0007_T_010b-mulu-2
+    span:
+    - body
+    - 7052
+    - 7052
+  label: 精進品(一〇下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6n0007_T_010b-mulu-3
+    span:
+    - body
+    - 7984
+    - 7984
+  label: 靜慮品(一〇下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6n0007_T_010b-mulu-4
+    span:
+    - body
+    - 8870
+    - 8870
+  label: 慧品(一〇下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6n0007_T_010b-mulu-5
+    span:
+    - body
+    - 11375
+    - 11375
+  label: 攝事品(一〇下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6n0007_T_011a-juan-start
+    span:
+    - body
+    - 0
+    - 13392
+  label: 瑜伽論記卷第十一之上論本第四十四至四十五
+  type: juan
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6n0007_T_011a-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 供養親品(一一上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6n0007_T_011a-mulu-2
+    span:
+    - body
+    - 5242
+    - 5242
+  label: 菩提分品(一一上-一一下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6n0007_T_011b-juan-start
+    span:
+    - body
+    - 0
+    - 13408
+  label: 瑜伽論記卷第十一之下論本四十六至四十七
+  type: juan
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6n0007_T_011b-mulu-1
+    span:
+    - body
+    - 2937
+    - 2937
+  label: 功德品(一一下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6n0007_T_011b-mulu-2
+    span:
+    - body
+    - 5784
+    - 5784
+  label: 2 隨法瑜伽處
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6n0007_T_011b-mulu-3
+    span:
+    - body
+    - 5797
+    - 5797
+  label: 菩薩相品(一一下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6n0007_T_011b-mulu-4
+    span:
+    - body
+    - 7070
+    - 7070
+  label: 分品(一一下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6n0007_T_011b-mulu-5
+    span:
+    - body
+    - 7454
+    - 7454
+  label: 增上意樂品(一一下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6n0007_T_011b-mulu-6
+    span:
+    - body
+    - 7959
+    - 7959
+  label: 住品(一一下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6n0007_T_012a-juan-start
+    span:
+    - body
+    - 0
+    - 20320
+  label: 瑜伽論記卷第十二之上論本第四十八
+  type: juan
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6n0007_T_012a-mulu-1
+    span:
+    - body
+    - 18870
+    - 18870
+  label: 3 究竟瑜伽處
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6n0007_T_012a-mulu-2
+    span:
+    - body
+    - 18878
+    - 18878
+  label: 生品(一二上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6n0007_T_012a-mulu-3
+    span:
+    - body
+    - 19430
+    - 19430
+  label: 攝受品(一二上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6n0007_T_012b-juan-start
+    span:
+    - body
+    - 0
+    - 13515
+  label: 瑜伽論記卷第十二之下論本第四十九至五十卷
+  type: juan
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6n0007_T_012b-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 地品(一二下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6n0007_T_012b-mulu-2
+    span:
+    - body
+    - 496
+    - 496
+  label: 行品(一二下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6n0007_T_012b-mulu-3
+    span:
+    - body
+    - 1210
+    - 1210
+  label: 建立品(一二下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6n0007_T_012b-mulu-4
+    span:
+    - body
+    - 9552
+    - 9552
+  label: 4 次第瑜伽處
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6n0007_T_012b-mulu-5
+    span:
+    - body
+    - 9676
+    - 9676
+  label: 發正等菩提心品
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6n0007_T_012b-mulu-6
+    span:
+    - body
+    - 11794
+    - 11794
+  label: 16 有餘依地(一二下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6n0007_T_012b-mulu-7
+    span:
+    - body
+    - 12751
+    - 12751
+  label: 17 無餘依地(一二下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6n0007_T_013a-juan-start
+    span:
+    - body
+    - 0
+    - 26611
+  label: 瑜伽論記卷第十三之上論本第五十一
+  type: juan
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6n0007_T_013a-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 2 攝決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6n0007_T_013a-mulu-2
+    span:
+    - body
+    - 5
+    - 5
+  label: 1 五識身相應地意地(一三上-一六上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6n0007_T_013a-mulu-3
+    span:
+    - body
+    - 5
+    - 5
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6n0007_T_013b-juan-start
+    span:
+    - body
+    - 0
+    - 9334
+  label: 瑜伽論記卷第十三之下論本第五十二
+  type: juan
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6n0007_T_014a-juan-start
+    span:
+    - body
+    - 0
+    - 12605
+  label: 瑜伽論記卷第十四之上
+  type: juan
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6n0007_T_014b-juan-start
+    span:
+    - body
+    - 0
+    - 22013
+  label: 瑜伽論記卷第十四之下論本第五十四
+  type: juan
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6n0007_T_015a-juan-start
+    span:
+    - body
+    - 0
+    - 15707
+  label: 瑜伽論記卷第十五之上論本第五十五
+  type: juan
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6n0007_T_015b-juan-start
+    span:
+    - body
+    - 0
+    - 16236
+  label: 瑜伽論記卷第十五之下論本第五十六
+  type: juan
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6n0007_T_016a-juan-start
+    span:
+    - body
+    - 0
+    - 19464
+  label: 瑜伽論記卷第十六之上論本第五十七
+  type: juan
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6n0007_T_016b-juan-start
+    span:
+    - body
+    - 0
+    - 12186
+  label: 瑜伽論記卷第十六之下論本五十八
+  type: juan
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6n0007_T_016b-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 2 有尋有伺等三地(一六下-一七上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6n0007_T_016b-mulu-2
+    span:
+    - body
+    - 5
+    - 5
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6n0007_T_017a-juan-start
+    span:
+    - body
+    - 0
+    - 14604
+  label: 瑜伽論記卷第十七之上論本第五十九至第六十二
+  type: juan
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6n0007_T_017b-juan-start
+    span:
+    - body
+    - 0
+    - 19485
+  label: 瑜伽論記卷第十七之下論本第六十二六十三
+  type: juan
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6n0007_T_017b-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 3 三摩呬多地(一七下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6n0007_T_017b-mulu-2
+    span:
+    - body
+    - 17005
+    - 17005
+  label: 4 三摩呬多地(一七下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6n0007_T_017b-mulu-3
+    span:
+    - body
+    - 17277
+    - 17277
+  label: 5 有心地(一七下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6n0007_T_017b-mulu-4
+    span:
+    - body
+    - 19350
+    - 19350
+  label: 6 無心地(一七下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6n0007_T_018a-juan-start
+    span:
+    - body
+    - 0
+    - 22847
+  label: 瑜伽論記卷第十八之上論本第六十四至六十六
+  type: juan
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6n0007_T_018a-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 7 聞所成慧地(一八上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6n0007_T_018a-mulu-2
+    span:
+    - body
+    - 6670
+    - 6670
+  label: 8 思所成地(一八上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6n0007_T_018b-juan-start
+    span:
+    - body
+    - 0
+    - 14428
+  label: 瑜伽論記卷第十八之下論本六十七至六十九
+  type: juan
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6n0007_T_018b-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 9 修所成慧地(一八下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6n0007_T_018b-mulu-2
+    span:
+    - body
+    - 951
+    - 951
+  label: 10 聲聞地(一八下-一九上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6n0007_T_018b-mulu-3
+    span:
+    - body
+    - 951
+    - 951
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6n0007_T_019a-juan-start
+    span:
+    - body
+    - 0
+    - 25729
+  label: 瑜伽論記卷第十九之上論本第七十至七十二
+  type: juan
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6n0007_T_019a-mulu-1
+    span:
+    - body
+    - 11217
+    - 11217
+  label: 11 菩薩地(一九上-二一下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6n0007_T_019a-mulu-2
+    span:
+    - body
+    - 11217
+    - 11217
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6n0007_T_019b-juan-start
+    span:
+    - body
+    - 0
+    - 16564
+  label: 瑜伽論記卷第十九之下論本第七十三
+  type: juan
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6n0007_T_020a-juan-start
+    span:
+    - body
+    - 0
+    - 17346
+  label: 瑜伽論記卷第二十之上論本第七十四至七十五
+  type: juan
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6n0007_T_020b-juan-start
+    span:
+    - body
+    - 0
+    - 15775
+  label: 瑜伽論記卷第二十之下論本第七十六至七十七
+  type: juan
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6n0007_T_021a-juan-start
+    span:
+    - body
+    - 0
+    - 17285
+  label: 瑜伽論記卷第二十一之上論本第七十八至七十九
+  type: juan
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR6n0007_T_021b-juan-start
+    span:
+    - body
+    - 0
+    - 16525
+  label: 瑜伽論記卷第二十一之下論本八十至八十一
+  type: juan
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR6n0007_T_021b-mulu-1
+    span:
+    - body
+    - 6756
+    - 6756
+  label: 12 有餘依及無餘依二地(二一下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR6n0007_T_021b-mulu-2
+    span:
+    - body
+    - 8704
+    - 8704
+  label: 3 攝釋分
+  type: mulu
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR6n0007_T_021b-mulu-3
+    span:
+    - body
+    - 8704
+    - 8704
+  label: 1 攝釋分(二一下-二二上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR6n0007_T_021b-mulu-4
+    span:
+    - body
+    - 8704
+    - 8704
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6n0007_T_022a-juan-start
+    span:
+    - body
+    - 0
+    - 19895
+  label: 瑜伽論記卷第二十二之上論本第八十二至八十五
+  type: juan
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6n0007_T_022a-mulu-1
+    span:
+    - body
+    - 6308
+    - 6308
+  label: 4 攝異門分
+  type: mulu
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6n0007_T_022a-mulu-2
+    span:
+    - body
+    - 6308
+    - 6308
+  label: 1 攝異門分(二二上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6n0007_T_022a-mulu-3
+    span:
+    - body
+    - 14386
+    - 14386
+  label: 5 攝事分
+  type: mulu
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6n0007_T_022a-mulu-4
+    span:
+    - body
+    - 14386
+    - 14386
+  label: 1 契經事行擇攝(二二上-二三上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6n0007_T_022a-mulu-5
+    span:
+    - body
+    - 14386
+    - 14386
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 45
+    marker_id: KR6n0007_T_022b-juan-start
+    span:
+    - body
+    - 0
+    - 12977
+  label: 瑜伽論記卷第二十二之下
+  type: juan
+  level: 1
+- ref:
+    seq: 46
+    marker_id: KR6n0007_T_023a-juan-start
+    span:
+    - body
+    - 0
+    - 16931
+  label: 瑜伽論記卷第二十三之上論本八十八至第九十
+  type: juan
+  level: 1
+- ref:
+    seq: 46
+    marker_id: KR6n0007_T_023a-mulu-1
+    span:
+    - body
+    - 6764
+    - 6764
+  label: 2 契經事處擇攝(二三上-二三下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR6n0007_T_023b-juan-start
+    span:
+    - body
+    - 0
+    - 13945
+  label: 瑜伽論記卷第二十三之下論本第九十一至九十三
+  type: juan
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR6n0007_T_023b-mulu-1
+    span:
+    - body
+    - 6500
+    - 6500
+  label: 3 契經事緣起食諦界擇攝(二三下-二四上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR6n0007_T_023b-mulu-2
+    span:
+    - body
+    - 6500
+    - 6500
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6n0007_T_024a-juan-start
+    span:
+    - body
+    - 0
+    - 11025
+  label: 瑜伽論記卷第二十四之上論本第九十四至九十六
+  type: juan
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6n0007_T_024b-juan-start
+    span:
+    - body
+    - 0
+    - 14780
+  label: 瑜伽論記卷第二十四之下論本第九十七至一百
+  type: juan
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6n0007_T_024b-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 4 契經事菩提分法擇攝(二四下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6n0007_T_024b-mulu-2
+    span:
+    - body
+    - 8503
+    - 8503
+  label: 5 調伏事擇攝(二四下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6n0007_T_024b-mulu-3
+    span:
+    - body
+    - 12374
+    - 12374
+  label: 6 本母事序辯攝(二四下)
+  type: mulu
+  level: 1
+hash: sha256:03620547a93a5bc0a5cb8e7c8296ef80e1f3cd962da12f5686c26902c9163c83

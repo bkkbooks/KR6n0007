@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0007/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 瑜伽論記
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T42/T42n1828.xml
+    old_id: T42n1828
+hash: sha256:28e410441ddd66f6aa838bf8d8f61be468e3e6d6db912bb2eb2995d1bf3e959b
